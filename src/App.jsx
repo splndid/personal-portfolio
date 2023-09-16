@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div>
-        <h1 className="text-7xl text-red-500">Hello stupid</h1>
+        <h1 className="text-4xl text-red-500">Hi there i was stuck with deployment for a long time</h1>
       </div>
     </>
   )
